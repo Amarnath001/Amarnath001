@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amarnath Kaushik
+# HELLO THERE :)
 
 🎮 Software Engineer | 🔬 AI Enthusiast | 🧪 Problem Solver  
 📍 Santa Clara, California | 💻 Ex-Capgemini | 🎓 MS CS @ Santa Clara University
