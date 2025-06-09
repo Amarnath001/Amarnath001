@@ -57,7 +57,7 @@
 ---
 
 ### 🌐 Live Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-green?style=for-the-badge)](https://portfolio-two-sigma-44.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-green?style=for-the-badge)](https://amarnathskaushik.com)
 
 ---
 
