@@ -24,7 +24,7 @@
 ---
 
 ### 🧠 Projects & Tools
-- 🎭 [Multi-Image Fusion AI Tool](https://github.com/Amarnath001/Multi-Image-Fusion): GPT-4 Vision + DALL-E magic
+- 🎭 Multi-Image Fusion AI Tool: GPT-4 Vision + DALL-E magic
 - 📡 File Transfer Android App – 25% faster than Bluetooth
 - 📊 Small Business Manager – 70% reporting automation
 - 🧠 Emotion Recognition App – CNN with 80% accuracy
@@ -33,7 +33,7 @@
 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmarnathKaushik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarnathskaushik/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat)](https://YOUR-VERCEL-URL.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat)](https://portfolio-two-sigma-44.vercel.app/))
 📧 amarnathskaushik@gmail.com
 
 ---
