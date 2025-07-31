@@ -32,11 +32,11 @@
 
 ### 💼 Experience
 - 🛠️ **Capgemini** – Software Engineer  
-  Led Android OS service updates for Logitech, triaged critical issues within 24h, and earned the WOW Award.  
-  Ranked #1 among 100+ new hires.
-
-- 🧪 **Researcher** – Published in IJRASET  
-  Built an emotion recognition model with 80% accuracy using CNN & Streamlit-based tools.
+  - Spearheaded enhancements to Android OS install services for Logitech video conferencing devices by optimizing
+  cloud update flows using S3 zip bundles; accelerated installation speed by 20% by targeting only required
+  components during decompression and avoiding redundant updates.
+  - Resolved critical issues across Android/Linux-based systems within 24-hour SLAs while streamlining Jenkins CI/CD
+  pipelines for reliable builds, leading to 15% higher system reliability and 10% increase in customer satisfaction.
 
 ---
 
