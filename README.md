@@ -60,7 +60,7 @@ I care about **shipping real products, not just prototypes.**
 - Contributed to a **production-grade wellness platform** with web, mobile, and backend systems  
 - Built backend services for **auth, scheduling, payments (Stripe), and messaging** using Flask + Supabase  
 - Integrated **AI-powered insights (GPT)** for client recommendations and coaching workflows  
-- Worked on **monorepo architecture (Turborepo)** with shared types, APIs, and scalable infra  [oai_citation:0‡Amar_job_sallusWellness.rtf](sediment://file_00000000e5a471f5b0478f2764201fc8)  
+- Worked on **monorepo architecture (Turborepo)** with shared types, APIs, and scalable infra 
 
 **Sentari AI — Software Development Engineer (Full-Stack)**  
 - Built & secured backend with **10+ Flask APIs (OAuth + JWT)** for journaling, subscriptions & emotion tracking  
@@ -84,35 +84,35 @@ I care about **shipping real products, not just prototypes.**
 #### PaperMind — AI Research Intelligence Platform  
 - Built **multi-tenant RAG system (Flask + pgvector + Gemini)**  
 - Supports **semantic search + citation-based QA over PDFs**  
-- Designed scalable ingestion → embedding → retrieval pipeline  [oai_citation:0‡Amar_proj_PaperMind.rtf](sediment://file_000000006130722fa9d6529dee67b4ca)  
+- Designed scalable ingestion → embedding → retrieval pipeline
 
 ---
 
 #### SilentSignal — AI Safety Detection System  
 - Full-stack system (FastAPI + React) for **emotional manipulation detection**  
 - Combines **rule-based + AI reasoning** for risk classification  
-- Privacy-first (no data storage)  [oai_citation:1‡Amar_proj_silentSignal.rtf](sediment://file_00000000ed0071f5aad9037b3d087fd8)  
+- Privacy-first (no data storage)
 
 ---
 
 #### Multi-Image Fusion Generator  
 - Built multimodal pipeline using **GPT-4 Vision + DALL·E 3**  
 - Converts multiple images → structured prompt → generated composite  
-- Saves ~**70% manual effort**  [oai_citation:2‡Amar_proj_multi_image_generator.rtf](sediment://file_0000000041ac71f5aad21e23deb6cf05)  
+- Saves ~**70% manual effort**
 
 ---
 
 #### RAG Study Helper  
 - Streamlit + LangChain + ChromaDB + Gemini system  
 - Generates **Q&A, tutorials, notes, practice questions** from documents  
-- Uses **local embeddings for cost efficiency**  [oai_citation:3‡Amar_prof_rag_studyHelper.rtf](sediment://file_00000000795c71f596d878593e29d2cc)  
+- Uses **local embeddings for cost efficiency**
 
 ---
 
 #### File Transfer Android App  
 - Built **TCP-based file transfer system with MD5 integrity checks**  
 - Supports multi-file transfer over WiFi  
-- Faster than Bluetooth (~25%)  [oai_citation:4‡Amar_proj_FileTransferApp.rtf](sediment://file_00000000c5e471f583a722a844360b8c)  
+- Faster than Bluetooth (~25%)
 
 ---
 
