@@ -1,7 +1,6 @@
 # Hello :3
 
-Software Engineer | AI Systems & Full-Stack Developer | Builder  
-📍 Santa Clara, California | Ex-Capgemini | MS CS @ Santa Clara University  
+Software Engineer | AI Systems & Full-Stack Developer | Builder | Santa Clara, California | Ex-Capgemini | MS CS @ Santa Clara University  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amarnath001&color=blue&style=flat)
 
@@ -97,7 +96,7 @@ I care about **shipping real products, not just prototypes.**
 
 ---
 
-#### 🎨 Multi-Image Fusion Generator  
+#### Multi-Image Fusion Generator  
 - Built multimodal pipeline using **GPT-4 Vision + DALL·E 3**  
 - Converts multiple images → structured prompt → generated composite  
 - Saves ~**70% manual effort**  [oai_citation:2‡Amar_proj_multi_image_generator.rtf](sediment://file_0000000041ac71f5aad21e23deb6cf05)  
@@ -115,18 +114,6 @@ I care about **shipping real products, not just prototypes.**
 - Built **TCP-based file transfer system with MD5 integrity checks**  
 - Supports multi-file transfer over WiFi  
 - Faster than Bluetooth (~25%)  [oai_citation:4‡Amar_proj_FileTransferApp.rtf](sediment://file_00000000c5e471f583a722a844360b8c)  
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
-</p>
 
 ---
 
