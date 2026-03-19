@@ -6,9 +6,8 @@ Software Engineer | AI Systems & Full-Stack Developer | Builder
 ![Profile Views](https://komarev.com/ghpvc/?username=Amarnath001&color=blue&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&lines=Building+AI+Systems;Full-Stack+Engineer;Turning+Ideas+into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Building+AI+Systems;Full-Stack+Engineer;Turning+Ideas+into+Products" />
 </p>
-
 ---
 
 ### 💡 About Me
