@@ -7,6 +7,7 @@ Software Engineer | AI Systems & Full-Stack Developer | Builder | Santa Clara, C
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Building+AI+Systems;Full-Stack+Engineer;Turning+Ideas+into+Products" />
 </p>
+
 ### About Me
 I build **end-to-end intelligent systems** — from scalable backend APIs to AI-powered applications used by real users.  
 
